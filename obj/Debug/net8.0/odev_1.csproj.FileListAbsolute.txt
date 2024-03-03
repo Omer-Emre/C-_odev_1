@@ -1,0 +1,14 @@
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\bin\Debug\net8.0\odev_1.exe
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\bin\Debug\net8.0\odev_1.deps.json
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\bin\Debug\net8.0\odev_1.runtimeconfig.json
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\bin\Debug\net8.0\odev_1.dll
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\bin\Debug\net8.0\odev_1.pdb
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.AssemblyInfoInputs.cache
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.AssemblyInfo.cs
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.csproj.CoreCompileInputs.cache
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.dll
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\refint\odev_1.dll
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.pdb
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\odev_1.genruntimeconfig.cache
+C:\Users\Enderun Bilisim 8\Desktop\ömer_emre\odev_1\obj\Debug\net8.0\ref\odev_1.dll
